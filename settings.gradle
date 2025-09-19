@@ -1,2 +1,2 @@
-rootProject.name = 'FichajeNFC'
+rootProject.name = "fichaje-nfc"
 include ':app'
