@@ -6,7 +6,6 @@
     android:gravity="center">
 
     <TextView
-        android:id="@+id/textView"
         android:text="Acerca la tarjeta NFC"
         android:textSize="24sp"
         android:layout_width="wrap_content"
